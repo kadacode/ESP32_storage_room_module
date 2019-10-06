@@ -5,6 +5,6 @@ Based on DS18B20, DHT22, BME280 and SCD30 sensors, it uploads temperature, humid
 
 Install the following libraries: Adafruit_Unified_Sensor, CayenneMQTT, DallasTemperature, DHT_sensor_library, OneWire, scd30-master, SparkFun_BME280, SparkFun_SCD30_Arduino_Library
 
-First-time coding so surely it is incomplete and not optimised. So far it seems to work. Feel free to improve and share.
+First coding project so it sure is incomplete and not optimised. So far it seems to work. Feel free to improve and share.
 
 Some pictures are included to get a sense of the build and functioning.
